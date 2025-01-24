@@ -8,9 +8,6 @@ This repository contains Python implementations of various clustering algorithms
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithms and Functions](#algorithms-and-functions)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
